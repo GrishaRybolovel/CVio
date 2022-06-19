@@ -1,16 +1,10 @@
-# cv_io
+# CV IO Application
+Flutter project for course in Innopolis University (a.k.a [SUM22] CPMDF) by BS21-02 students - Avkhadeev Albert and Grisha Rybovlev
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Short annotation
+The main goal of the application to create some social network that will connect employers with employees. Our purpose to connect several applications as LinkedIn, Zoom and etc to simplify apparatus employed. Our application consist of two screens. The first one consist information about profile of the employer, the second one - settings menu for changing some information about employer. Now project in the development process and we think that idea will be realized in the few months.
+<br>
+<img src=https://github.com/TatarinAlba/ChuckNorrisApplication/blob/main/screenshots/screen1.png width="200" height="400">
+<img src=https://github.com/TatarinAlba/ChuckNorrisApplication/blob/main/screenshots/screen2.png width="200" height="400">
+<img src=https://github.com/TatarinAlba/ChuckNorrisApplication/blob/main/screenshots/screen3.png width="200" height="400">
+___
