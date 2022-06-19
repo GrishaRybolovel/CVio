@@ -19,7 +19,16 @@ class _EditProfileState extends State<EditProfile> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          leading: BackButton(),
+          elevation: 0,
+          backgroundColor: Colors.green,
+          title: const Text(
+            'Edit profile',
+            style: TextStyle(
+              fontSize: 24,
+              color: Colors.white,
+            ),
+          ),
+          centerTitle: true,
         ),
         body: ListView(
           physics: BouncingScrollPhysics(),
