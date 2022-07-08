@@ -1,4 +1,4 @@
-#Sun Jun 19 23:41:51 MSK 2022
-base.0=/home/albert/Study/CVio/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Jul 04 23:53:03 MSK 2022
+base.0=D\:\\Code\\Projects\\CVio\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
